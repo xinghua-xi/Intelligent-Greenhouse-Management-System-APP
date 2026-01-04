@@ -1,0 +1,7 @@
+{
+  "name": "智农云 | SmartGreenhouse",
+  "description": "基于Gemini AI的智能大棚管理系统，集成实时环境监控、AI病虫害诊断与离线数据采集功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
